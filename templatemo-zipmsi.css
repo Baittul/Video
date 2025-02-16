@@ -11,7 +11,7 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(135deg, #4CAF50, #A220ff);
+  background: linear-gradient(135deg, #52595D, #A220ff);
 }
 p {
 	margin-bottom: 0px;
@@ -79,7 +79,7 @@ a.filled-button:hover {
 .section-heading {
 	text-align: left;
 	margin-bottom: 60px;
-	border-bottom: 1px solid #eee;
+	border-bottom: 1px solid #fff;
 }
 
 .section-heading h2 {
@@ -94,7 +94,7 @@ a.filled-button:hover {
 }
 
 .about-heading {
-	background-image: url(../images/about-heading.jpg);
+	background-image: url('kayu.jpg');
 }
 
 .contact-heading {
