@@ -291,8 +291,8 @@ header .navbar {
 	background-image: none;
 }
 .navbar .navbar-toggler {
-	border-color: #fff;
-	background-color: #fff;	
+	border-color: #222;
+	background-color: #2fff;	
 	height: 36px;
 	outline: none;
 	border-radius: 0px;
@@ -418,8 +418,9 @@ header .navbar {
 }
 
 .product-item {
-	border: 1px solid black;
+	border: 1px solid gold;
 	margin-bottom: 30px;
+	border-radius: 10px;
 }
 
 .product-item .down-content {
@@ -430,6 +431,7 @@ header .navbar {
 .product-item img {
 	width: 100%;
 	overflow: hidden;
+	border-radius: 9px;
 }
 
 .product-item .down-content h4 {
